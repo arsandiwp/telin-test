@@ -54,7 +54,7 @@ function Expenses() {
             ))}
           </>
         ) : (
-          <p>no</p>
+          <p>No data</p>
         )}
       </Row>
     </div>
